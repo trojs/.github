@@ -1,6 +1,6 @@
 ## TroJS 🎠
 
-Tro is Swedeish for trust.
+Tro is Swedish for trust.
 
 So it refer to Trust Javascript.
 
