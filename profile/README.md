@@ -1,5 +1,9 @@
 ## TroJS 🎠
 
+Tro is Swedeish for trust.
+
+So it refer to Trust Javascript.
+
 🙋‍♀️ Useful framework agnostic helpers
 
 🌈 Free to use, make it better together
