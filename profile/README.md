@@ -12,4 +12,4 @@ So it refer to Trust Javascript, and we believe in Javascript.
 
 🍿 No build processes needed, you can just use it
 
-🧙 Add with TroJS some magic to your projects
+🧙 Free/Libre/Gratis and Open Source Software
